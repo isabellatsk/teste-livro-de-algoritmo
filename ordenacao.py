@@ -1,5 +1,5 @@
 # (ORDENAÇÃO POR SELEÇÃO - CAP 2 PG 54)
-# ordenar um array do menor para o maior 
+# Ordenar um array do menor para o maior 
 
 
 def buscaMenor(arr):
